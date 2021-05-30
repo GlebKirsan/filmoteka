@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Filmoteka</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_save">Сохранить</string>
+    <string name="action_delete">Удалить</string>
+
+    <string name="russia_country">Россия</string>
+    <string name="usa_country">США</string>
+    <string name="france_country">Франция</string>
+    <string name="heade_text_view">Добавить новый фильм</string>
+    <string name="film_year">Год:</string>
+    <string name="film_name">Название фильма:</string>
+    <string name="film_country">Страна:</string>
+    <string name="film_genre">Жанр:</string>
+    <string name="film_producer">Режиссёр:</string>
+    <string name="film_actor">Актёр:</string>
+    <string name="film_kinopoisk_rating">Рейтинг на Кинопоиск:</string>
+    <string name="film_imdb_rating">Рейтинг на IMDB:</string>
+    <string name="film_description">Описание:</string>
+
+    <string name="info_editor_header">Редактировать информацию</string>
+    <string name="info_editor_accept">Применить</string>
+    <string name="info_editor_accept_hint">Сохранить изменения</string>
+
+    <string-array name="array_country_options">
+        <item>@string/russia_country</item>
+        <item>@string/usa_country</item>
+        <item>@string/france_country</item>
+    </string-array>
+    <string name="title_activity_film_info">FilmInfo</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="addNewSeries">Добавить новый сериал</string>
+    <string name="nameOfSeries">Название сериала</string>
+    <string name="ageRate">Возрастной рейтинг</string>
+    <string name="status">Статус:</string>
+    <string name="seasonsNum">Количество сезонов</string>
+    <string name="add_new_string">Добавить новую страну</string>
+    <string name="confirm_add">Подтвердить добавление фильма</string>
+    <string name="country_name">Название страны</string>
+    <string name="film_edit_plus">+</string>
+    <string name="films_collection">КОЛЛЕКЦИЯ ФИЛЬМОВ</string>
+    <string name="series">СЕРИАЛЫ</string>
+    <string name="series_name">Название сериала</string>
+    <string name="premier_year">Год премьеры:</string>
+
+    <string name="actor_header">Добавить нового актёра</string>
+    <string name="actor_name">Имя:</string>
+    <string name="actor_surname">Фамилия:</string>
+    <string name="pick_date">Выбрать день рождения</string>
+    <string name="actor_name_hint">Имя актёра</string>
+    <string name="actor_surname_hint">Фамилия актёра</string>
+    <string name="actor_add_hint">Подтвердить добавление актёра</string>
+    <string name="producer_header">Добавление нового режиссёра</string>
+    <string name="producer_name">Имя:</string>
+    <string name="producer_name_hint">Имя режиссёра</string>
+    <string name="producer_surname">Фамилия</string>
+    <string name="producer_surname_hint">Фамилия режиссёра</string>
+    <string name="producer_add_hint">Добавить режиссёра</string>
+    <string name="add_new_genre">Добавить новый жанр</string>
+    <string name="genre_name">Жанр</string>
+    <string name="editSeries">Изменить сериал</string>
+    <string name="series_info_state">Статус:</string>
+    <string name="info_seasonsNum">Количество сезонов:</string>
+    <string name="info_episodes_a_season">Эпизодов в сезоне:</string>
+    <string name="info_episode_length">Длительность эпизода:</string>
+    <string name="imdb">Рейтинг\nIMDb</string>
+    <string name="kinopoisk">Рейтинг\nКиноПоиск</string>
+    <string name="filmname">Название фильма</string>
+    <string name="year">Год:</string>
+    <string name="country">Страна:</string>
+    <string name="genre">Жанр:</string>
+    <string name="plud">+</string>
+    <string name="actor">Актер:</string>
+    <string name="producer">Режиссёр:</string>
+    <string name="plus">+</string>
+    <string name="age">Возраст\nпросмотра</string>
+    <string name="wathced">Посмотрено</string>
+    <string name="short_film_descriprion">Краткое описание фильма</string>
+    <string name="one">1</string>
+    <string name="episodes_in_season">Эпизодов в сезоне</string>
+    <string name="episode_duration">Длительность эпизода (мин)</string>
+    <string name="_30">30</string>
+    <string name="dont_add_to_my_collection">Не добавлять в мою коллекцию</string>
+    <string name="want_to_watch">Хочу посмотреть</string>
+    <string name="watched">Посмотрено</string>
+    <string name="trailer_link">Ссылка на трейлер</string>
+    <string name="short_film_description">Краткое описание фильма</string>
+    <string name="confirm_film_adding">Подтвердить добавление фильма</string>
+    <string name="add">Добавить</string>
+</resources>
